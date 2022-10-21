@@ -64,8 +64,7 @@ Wang-AXIS lab has research resources.
 %}
 
 {% capture text %}
-We are a team of enthusiastic researchers that want to push the frontier of data science.
-We strive to build an inclusive environment for research, and recognize the value of diversity in the process of discovery.
+We are a team of enthusiastic researchers that want to push the frontier of Biomedical Imaging.
 
 {%
   include link.html
@@ -80,6 +79,6 @@ We strive to build an inclusive environment for research, and recognize the valu
   include feature.html
   image="images/team/group-photo-2.jpg"
   link="team"
-  title="The next generation of data scientists"
+  title="Our diverse team"
   text=text
 %}
