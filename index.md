@@ -1,16 +1,20 @@
 ---
-title: Where data and biology meet
+title: Wang-AXIS Lab
 ---
 
-# Where data and biology meet
+# Welcome to Wang-AXIS Lab
 
-The Greene Lab is a team of researchers at the [University of Colorado School of Medicine](https://medschool.cuanschutz.edu/) dedicated to answering important questions in biology and medicine with computation.
-We focus on bringing together publicly available [big data](https://en.wikipedia.org/wiki/Big_data), developing new computational methods to analyze that data, and creating tools to put those resources into the hands of every biologist.
+
+AI-based X-ray Imaging System (AXIS) lab is led by Dr. Ge Wang, affiliated with the [Department of Biomedical Engineering](https://bme.rpi.edu/) at Rensselaer Polytechnic Institute and the Center for Biotechnology and Interdisciplinary Studies in the Biomedical Imaging Center.
+
+
+Our lab focuses on innovation and translation of x-ray computed tomography, optical molecular tomography, multi-scale and multi-modality imaging, and AI/machine learning for image reconstruction and analysis (see Research), and has been continuously well funded by federal agencies and leading companies. Our group collaborates with Stanford, Harvard, Cornell, MSK, UTSW, Yale, GE, Hologic, and others, to develop theories, methods, software, systems, applications, and workflows.
 
 {%
   include figure.html
   image="images/team/group-photo-1.jpg"
   width="100%"
+  height = "50%"
 %}
 
 {% include section.html %}
@@ -18,13 +22,11 @@ We focus on bringing together publicly available [big data](https://en.wikipedia
 # Highlights
 
 {% capture text %}
-We use data science to answer important questions in biology and medicine.
-In all of our research, we prioritize transparency, rigor, and reproducibility.
-
+Our research focuses on reproducibility and rigor. Wang-AXIS lab focuses on Medical Image Reconstruction and also deep learning techniques.
 {%
   include link.html
   link="research"
-  text="See what we've published"
+  text="Publications from this lab"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -34,18 +36,18 @@ In all of our research, we prioritize transparency, rigor, and reproducibility.
   include feature.html
   image="images/backgrounds/laptop-paper.jpg"
   link="research"
-  title="Biology + AI → insight"
+  title="Publications"
   text=text
 %}
 
 {% capture text %}
-We believe that anyone around the world should be able to use and extend our work.
-We push to make software, tools, datasets, etc. that are freely available and openly licensed.
+Our lab works with academia and industry collaborators to ensure a synergy between both Hardware and Software centric research.
+Wang-AXIS lab has research resources. 
 
 {%
   include link.html
   link="tools"
-  text="See our highlighted resources"
+  text="Lab Resources"
   icon="fas fa-arrow-right"
   flip=true
 %}
